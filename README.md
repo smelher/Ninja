@@ -10,7 +10,7 @@ With this puzzle you will learn:
 
 - How to create Else if (Elif) statements
 - How to begin working in IDLE
-- How to print statments
+- How to print statments in the terminal
 
 ## Definitions
 
@@ -19,7 +19,7 @@ With this puzzle you will learn:
 | `Variable `      | A term to store information that can be reused.                               |
 | `String `        | A sequence of characters                                                      |
 | `Elif statement` | Short for Else if, is a conditional statment that checks for other variables. |
-| `IDLE`           | an integrated development environment for Python                              |
+| `IDLE`           | An integrated development environment for Python.                             |
 
 ---
 
