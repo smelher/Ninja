@@ -49,16 +49,14 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
         <img src="Assets/idle-type.png"
             alt="IDLE Type"
             style="float: left; margin-right: 50px;" 
-            width="100" height="50"/>
+            width="200" height="100"/>
 
         &#x2611; The `IDLE box` will open.
 
-        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/idle-shell.png"
-            alt="IDLE Shell"
-            style="float: left; margin-right: 100px;" 
-            width="100" height="50"/>
-
-        &nbsp;
+        <img src="Assets/idle-shell.png"
+            alt="IDLE Type"
+            style="float: left; margin-right: 50px;" 
+            width="200" height="100"/>
 
         > This should be running on the latest version of Python.
 
