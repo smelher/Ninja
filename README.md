@@ -1,12 +1,13 @@
-# Ninja
+# Ninja Python Puzzle Tutorial
 
-## Ninja Documentation
+The purpose of this document is to explain how to run a puzzle in Python for beginners.
 
-| Table of Contents | Page Number |
-| ----------------- | ----------- |
-| Definitions       |             |
-| Steps             |             |
+## Ninja Definitions
 
-<mark> PREREQUISITE </mark>
+| Term           | Definition |
+| -------------- | ---------- |
+| Variable       |            |
+| String         |            |
+| Elif statement |
 
-> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
+> <b>PREREQUISITE:</b> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
