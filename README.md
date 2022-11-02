@@ -6,7 +6,28 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
 
 This particular puzzle was found in a [Python for Kids](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076/ref=asc_df_1593274076/?tag=hyprod-20&linkCode=df0&hvadid=312125971120&hvpos=&hvnetw=g&hvrand=476739474878251740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004368&hvtargid=pla-406163956273&psc=1&tag=&ref=&adgrpid=61316180839&hvpone=&hvptwo=&hvadid=312125971120&hvpos=&hvnetw=g&hvrand=476739474878251740&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004368&hvtargid=pla-406163956273/) book. Python, though considered one of the most user friendly coding languages, still requires time and dedication to learn.
 
-## Puzzle
+With this puzzle you will learn:
+
+- How to create Else if (Elif) statements
+- How to begin working in IDLE
+- How to print statments
+
+## Definitions
+
+| Term             | Definition                                                                    |
+| ---------------- | ----------------------------------------------------------------------------- |
+| `Variable `      | A term to store information that can be reused.                               |
+| `String `        | A sequence of characters                                                      |
+| `Elif statement` | Short for Else if, is a conditional statment that checks for other variables. |
+| `IDLE`           | an integrated development environment for Python                              |
+
+---
+
+## Puzzle Prompt
+
+This puzzle is meant to test your knowledge of Elif conditional statments. The steps below will walk you through creating the answer to the prompt below.
+
+> If you have previous knowledge of Python try to complete the puzzle before you see the steps.
 
 ```
  #4 I Can Fight those Ninjas
@@ -28,16 +49,9 @@ This particular puzzle was found in a [Python for Kids](https://www.amazon.com/P
 
 ---
 
-## Definitions
+## Completing the Ninja Puzzle
 
-| Term             | Definition                                                                    |
-| ---------------- | ----------------------------------------------------------------------------- |
-| `Variable `      | A term to store information that can be reused.                               |
-| `String `        | A sequence of characters                                                      |
-| `Elif statement` | Short for Else if, is a conditional statment that checks for other variables. |
-| `IDLE`           | an integrated development environment for Python                              |
-
----
+Below are the steps to complete the Ninja puzzle. See how many Ninjas you can defeat!
 
 > <b>PREREQUISITE:</b> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
 
