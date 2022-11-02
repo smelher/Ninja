@@ -1,6 +1,6 @@
 # Ninja Python Puzzle Tutorial
 
-The purpose of this document is to explain how to run a puzzle in Python for beginners. The goal of the puzzle is to print the string "That's too many!" by creating a conditional statment.
+The purpose of this document is to explain how to run a puzzle in Python for beginners.
 
 ## Puzzle
 
