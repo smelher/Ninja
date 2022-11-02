@@ -45,18 +45,14 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
         - For [PC](https://support.microsoft.com/en-us/windows/search-for-anything-anywhere-b14cc5bf-c92a-1e73-ea18-2845891e6cc8#:~:text=To%20show%20the%20search%20box,toggle%2Fclear%20Show%20search%20highlights.) use the shortcut by holding the `Windows logo + S`.
 
     2.  Type **IDLE**.
-        &nbsp;
 
-            <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 12.47.26 PM.png"
+        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 12.47.26 PM.png"
             alt="Markdown Monster icon"
-            style="float: left; margin-right: 100px;" />
+            style="float: left; margin-right: 50px;" />
 
-        &nbsp;
+        &nbsp; &#x2611; The `IDLE box` will open.
 
-        &#x2611; The `IDLE box` will open.
-        &nbsp;
-
-            <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 2.05.58 PM.png"
+        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 2.05.58 PM.png"
             alt="Markdown Monster icon"
             style="float: left; margin-right: 100px;" />
 
