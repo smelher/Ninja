@@ -37,18 +37,32 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
 
 > <b>PREREQUISITE:</b> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
 
-<!-- Yay, no errors, warnings, or alerts! -->
-
 1.  Open **IDLE** located on your computer.
 
-    1. Click the `search bar` on your computer.
-       - For [Mac](https://support.apple.com/en-asia/guide/mac-help/mchlp1008/mac) the seach bar is located in the upper right hand corner.
-       - For [PC](https://support.microsoft.com/en-us/windows/search-for-anything-anywhere-b14cc5bf-c92a-1e73-ea18-2845891e6cc8#:~:text=To%20show%20the%20search%20box,toggle%2Fclear%20Show%20search%20highlights.) use the shortcut by holding the `Windows logo + S`.
-    2. Type **IDLE**.
+    1.  Click the `search bar` on your computer.
 
-       &#x2611; The `IDLE box` will open.
+        - For [Mac](https://support.apple.com/en-asia/guide/mac-help/mchlp1008/mac) the seach bar is located in the upper right hand corner.
+        - For [PC](https://support.microsoft.com/en-us/windows/search-for-anything-anywhere-b14cc5bf-c92a-1e73-ea18-2845891e6cc8#:~:text=To%20show%20the%20search%20box,toggle%2Fclear%20Show%20search%20highlights.) use the shortcut by holding the `Windows logo + S`.
 
-       > This should be running on the latest version of Python.
+    2.  Type **IDLE**.
+        &nbsp;
+
+            <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 12.47.26 PM.png"
+            alt="Markdown Monster icon"
+            style="float: left; margin-right: 100px;" />
+
+        &nbsp;
+
+        &#x2611; The `IDLE box` will open.
+        &nbsp;
+
+            <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 2.05.58 PM.png"
+            alt="Markdown Monster icon"
+            style="float: left; margin-right: 100px;" />
+
+        &nbsp;
+
+        > This should be running on the latest version of Python.
 
 2.  Label a variable **“ninjas”**.
 3.  Set the variable **equal to “5”**.
