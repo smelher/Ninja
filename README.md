@@ -46,15 +46,11 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
 
     2.  Type **IDLE**.
 
-        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 12.47.26 PM.png"
-            alt="Markdown Monster icon"
-            style="float: left; margin-right: 50px;" />
+        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 12.47.26 PM.png" />
 
         &nbsp; &#x2611; The `IDLE box` will open.
 
-        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 2.05.58 PM.png"
-            alt="Markdown Monster icon"
-            style="float: left; margin-right: 100px;" />
+        <img src="/Users/nhipham/Desktop/Python Projects/Ninja/Assets/Screen Shot 2022-11-02 at 2.05.58 PM.png" />
 
         &nbsp;
 
