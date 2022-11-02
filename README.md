@@ -1,4 +1,3 @@
 # Ninja
 
 ## Ninja Documentation
-
