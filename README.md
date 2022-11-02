@@ -24,14 +24,14 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
 
 ---
 
-## Ninja Definitions
+## Definitions
 
-| Term             | Definition |
-| ---------------- | ---------- |
-| `Variable `      |            |
-| `String `        |            |
-| `Elif statement` |
-| `IDLE`           |
+| Term             | Definition                                                                    |
+| ---------------- | ----------------------------------------------------------------------------- |
+| `Variable `      | A term to store information that can be reused.                               |
+| `String `        | A sequence of characters                                                      |
+| `Elif statement` | Short for Else if, is a conditional statment that checks for other variables. |
+| `IDLE`           | an integrated development environment for Python                              |
 
 ---
 
