@@ -4,4 +4,4 @@
 
 [!PREREQUISITE]
 
-> Download Python prior to starting tutorial.
+> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
