@@ -1,6 +1,10 @@
 # Ninja Python Puzzle Tutorial
 
-The purpose of this document is to explain how to run a puzzle in Python for beginners.
+## Introduction
+
+The purpose of this document is to explain how to run a puzzle in Python for beginners. It can be easy to become overwhelmed by learning a new coding language. Trying simple puzzles like this one can make it easier to understand.
+
+This particular puzzle was found in a [Python for Kids](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076/ref=asc_df_1593274076/?tag=hyprod-20&linkCode=df0&hvadid=312125971120&hvpos=&hvnetw=g&hvrand=476739474878251740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004368&hvtargid=pla-406163956273&psc=1&tag=&ref=&adgrpid=61316180839&hvpone=&hvptwo=&hvadid=312125971120&hvpos=&hvnetw=g&hvrand=476739474878251740&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004368&hvtargid=pla-406163956273/) book. Python, though considered one of the most user friendly coding languages, still requires time and dedication to learn.
 
 ## Puzzle
 
