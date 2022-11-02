@@ -22,13 +22,18 @@ The purpose of this document is to explain how to run a puzzle in Python for beg
          10.
 ```
 
+---
+
 ## Ninja Definitions
 
-| Term           | Definition |
-| -------------- | ---------- |
-| Variable       |            |
-| String         |            |
-| Elif statement |
+| Term             | Definition |
+| ---------------- | ---------- |
+| `Variable `      |            |
+| `String `        |            |
+| `Elif statement` |
+| `IDLE`           |
+
+---
 
 > <b>PREREQUISITE:</b> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
 
