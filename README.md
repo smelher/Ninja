@@ -8,16 +8,16 @@ This particular puzzle was found in a [Python for Kids](https://www.amazon.com/P
 
 With this puzzle you will learn:
 
-- How to create Else if (Elif) statements
-- How to begin working in IDLE
-- How to print statments in the terminal
+- How to create Else if (Elif) statements.
+- How to begin working in IDLE.
+- How to print statments in the terminal.
 
 ## Definitions
 
 | Term             | Definition                                                                    |
 | ---------------- | ----------------------------------------------------------------------------- |
 | `Variable `      | A term to store information that can be reused.                               |
-| `String `        | A sequence of characters                                                      |
+| `String `        | A sequence of characters.                                                     |
 | `Elif statement` | Short for Else if, is a conditional statment that checks for other variables. |
 | `IDLE`           | An integrated development environment for Python.                             |
 
@@ -112,6 +112,6 @@ Below are the steps to complete the Ninja puzzle. See how many Ninjas you can de
 
 12. Add below:
 
-        “Print(‘’’I can fight those ninjas!’’’)**
+        “Print(‘’’I can fight those ninjas!’’’)
 
     &#x2611; You have successfully completed your first puzzle for `Python`.
