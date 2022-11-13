@@ -1,5 +1,9 @@
 # Ninja Python Puzzle Tutorial
 
+## PREREQUISITE: Some knowledge of strings, variables, and other basic functions is necessary to complete this puzzle
+
+> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
+
 ## Introduction
 
 The purpose of this document is to guide beginners through a puzzle in Python. It can be easy to become overwhelmed by learning a new coding language. Trying simple puzzles like this one can make it easier to understand.
@@ -52,8 +56,6 @@ This puzzle is meant to test your knowledge of Elif conditional statments. The s
 ## Completing the Ninja Puzzle
 
 Below are the steps to complete the Ninja puzzle. See how many Ninjas you can defeat!
-
-> <b>PREREQUISITE:</b> Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
 
 1.  Open **IDLE** located on your computer.
 
