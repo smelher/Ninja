@@ -1,6 +1,6 @@
 # Ninja Python Puzzle Tutorial
 
-### Prerequisite: Some knowledge of strings, variables, and other basic functions is necessary to complete this puzzle
+### Prerequisite: Some knowledge of strings, variables, and other basic functions is necessary to complete this puzzle.
 
 > Download [Python](https://www.python.org/downloads/) prior to starting tutorial.
 
